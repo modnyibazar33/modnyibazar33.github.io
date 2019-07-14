@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563103264342">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563108254468">
   <folder name="assets">
     <file name="модный-базар-1.mp3" crc="4137687139" seo="true" mt="1563101270000"/>
   </folder>
@@ -63,5 +63,5 @@
     <file name="u165-4.png" crc="4215938357" ref="index"/>
     <file name="модный-баzар---магазин-модной-женской-одежды-favicon.ico" crc="419537009" ref="index"/>
   </folder>
-  <file name="index.html" crc="4288512805" seo="true" mt="1563103251806" redirect="true"/>
+  <file name="index.html" crc="41375808" seo="true" mt="1563108244022" redirect="true"/>
 </manifest>
