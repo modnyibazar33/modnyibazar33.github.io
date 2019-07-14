@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563127602612">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563131775219">
   <folder name="assets">
     <file name="модный-базар-1.mp3" crc="4137687139" seo="true" mt="1563101270000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4088682408" ref="index"/>
+    <file name="index.css" crc="3926725479" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -71,12 +71,12 @@
     <file name="visa_2014_logo_detailsvg.png" crc="400404066" ref="index"/>
     <file name="mir-logo-h229px.png" crc="334720815" ref="index"/>
     <file name="banner1.jpg" crc="193843199" seo="true" ref="index"/>
-    <file name="banner2.jpg" crc="4192096198" seo="true" ref="index"/>
+    <file name="banner2.jpg" crc="4209041882" seo="true" ref="index"/>
     <file name="banner3.jpg" crc="3822964470" seo="true" ref="index"/>
     <file name="banner4.jpg" crc="134949204" seo="true" ref="index"/>
     <file name="u372-4.png" crc="4198776770" ref="index"/>
     <file name="u378-4.png" crc="4079631441" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="3842069352" seo="true" mt="1563127584926" redirect="true"/>
+  <file name="index.html" crc="3842069352" seo="true" mt="1563131724994" redirect="true"/>
 </manifest>
