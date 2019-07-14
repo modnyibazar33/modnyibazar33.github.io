@@ -1,0 +1,8 @@
+﻿User-agent: *
+Disallow: /assets/
+Disallow: /css/
+Disallow: /images/
+Disallow: /scripts/
+Disallow: muse_manifest.xml
+
+Sitemap: https://modnyibazar33.github.io/sitemap.xml
