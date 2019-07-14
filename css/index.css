@@ -20,8 +20,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000F1;
-	background-color: #50C5A2;
+	color: #0000F2;
+	background-color: #730128;
 }
 
 .html
@@ -392,9 +392,16 @@
 	z-index: 40;
 	display: block;
 	vertical-align: top;
-	margin-left: 374px;
-	margin-top: 113px;
+	margin-left: 326px;
+	margin-top: 75px;
 	position: relative;
+}
+
+#pu95-17
+{
+	width: 0.01px;
+	margin-left: 241px;
+	margin-top: 26px;
 }
 
 #u95-17
@@ -402,15 +409,17 @@
 	z-index: 44;
 	display: block;
 	vertical-align: top;
-	margin-left: 296px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #sotrudniki
 {
-	margin-left: 441px;
-	margin-top: 75px;
 	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 216px;
+	left: 201px;
 }
 
 #u223
@@ -850,8 +859,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	color: #FF0000;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -879,8 +888,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 12px;
+	font-size: 12px;
 	color: #00FF00;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
