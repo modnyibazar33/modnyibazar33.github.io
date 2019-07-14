@@ -1,7 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563099727274">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563103264342">
+  <folder name="assets">
+    <file name="модный-базар-1.mp3" crc="4137687139" seo="true" mt="1563101270000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4067623208" ref="index"/>
+    <file name="index.css" crc="104139230" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -36,7 +39,7 @@
     <file name="u207.png" crc="55235888" ref="index"/>
     <file name="u207-r.png" crc="55235888" ref="index"/>
     <file name="u94-4.png" crc="4184036426" ref="index"/>
-    <file name="u95-17.png" crc="222094601" ref="index"/>
+    <file name="u95-17.png" crc="4169393888" ref="index"/>
     <file name="u185-4.png" crc="475887767" ref="index"/>
     <file name="u83-4.png" crc="4234872148" ref="index"/>
     <file name="u187-4.png" crc="475887767" ref="index"/>
@@ -58,6 +61,7 @@
     <file name="u140-ferr.png" crc="243246620" ref="index"/>
     <file name="u143-4.png" crc="148698911" ref="index"/>
     <file name="u165-4.png" crc="4215938357" ref="index"/>
+    <file name="модный-баzар---магазин-модной-женской-одежды-favicon.ico" crc="419537009" ref="index"/>
   </folder>
-  <file name="index.html" crc="3926005549" seo="true" mt="1563099686821" redirect="true"/>
+  <file name="index.html" crc="4288512805" seo="true" mt="1563103251806" redirect="true"/>
 </manifest>

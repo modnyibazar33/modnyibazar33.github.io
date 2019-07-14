@@ -20,8 +20,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #730128;
+	color: #000006;
+	background-color: #3509DE;
 }
 
 .html
@@ -397,29 +397,34 @@
 	position: relative;
 }
 
-#pu95-17
-{
-	width: 0.01px;
-	margin-left: 241px;
-	margin-top: 26px;
-}
-
 #u95-17
 {
 	z-index: 44;
 	display: block;
 	vertical-align: top;
+	margin-left: 241px;
+	margin-top: 26px;
 	position: relative;
-	margin-right: -10000px;
+}
+
+#u274
+{
+	z-index: 176;
+	width: 400px;
+	min-height: 31px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 284px;
+	margin-top: 7px;
+	position: relative;
 }
 
 #sotrudniki
 {
+	margin-left: 441px;
+	margin-top: 7px;
 	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	margin-top: 216px;
-	left: 201px;
 }
 
 #u223
@@ -667,8 +672,8 @@
 	border-color: #C4C4C4;
 	background-color: #E0E0E0;
 	padding: 6px;
-	line-height: 14px;
 	color: #7A7A7A;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;
@@ -767,8 +772,8 @@
 	border-color: #C4C4C4;
 	background-color: #E0E0E0;
 	padding: 6px;
-	line-height: 14px;
 	color: #7A7A7A;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;
@@ -859,9 +864,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
 	font-size: 12px;
 	color: #FF0000;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -888,9 +893,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 12px;
 	font-size: 12px;
 	color: #00FF00;
+	line-height: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -987,8 +992,8 @@
 	border-color: #C4C4C4;
 	background-color: #E0E0E0;
 	padding: 6px;
-	line-height: 14px;
 	color: #7A7A7A;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;
@@ -1108,8 +1113,8 @@
 	border-color: #C4C4C4;
 	background-color: #E0E0E0;
 	padding: 6px;
-	line-height: 14px;
 	color: #7A7A7A;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;
