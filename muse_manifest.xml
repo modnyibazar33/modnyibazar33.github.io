@@ -1,0 +1,63 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563097180045">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="457490572" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="form_check.php" crc="3932029206" ref="index"/>
+    <file name="form_throttle.php" crc="314685628" ref="index"/>
+    <file name="form_process.php" crc="401030677" ref="index"/>
+    <file name="form-u97.php" crc="3790650448" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="4267516386" ref="index"/>
+    <file name="u81-5.png" crc="488888137" ref="index"/>
+    <file name="icon-white.png" crc="84155791" ref="index"/>
+    <file name="u157-4.png" crc="413013076" ref="index"/>
+    <file name="whatsapp-xxl.png" crc="3933507083" ref="index"/>
+    <file name="u159-4.png" crc="186385103" ref="index"/>
+    <file name="instagram-icon-white.png" crc="3892124633" ref="index"/>
+    <file name="vk_com.png" crc="4059599765" ref="index"/>
+    <file name="u190-4.png" crc="101784661" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u192.png" crc="382200733" ref="index"/>
+    <file name="u192-r.png" crc="382200733" ref="index"/>
+    <file name="u262-4.png" crc="3873285114" ref="index"/>
+    <file name="u203.png" crc="186912260" ref="index"/>
+    <file name="u203-r.png" crc="186912260" ref="index"/>
+    <file name="u205.png" crc="112803709" ref="index"/>
+    <file name="u205-r.png" crc="112803709" ref="index"/>
+    <file name="u207.png" crc="55235888" ref="index"/>
+    <file name="u207-r.png" crc="55235888" ref="index"/>
+    <file name="u94-4.png" crc="3805560791" ref="index"/>
+    <file name="u95-17.png" crc="267201131" ref="index"/>
+    <file name="u185-4.png" crc="475887767" ref="index"/>
+    <file name="u83-4.png" crc="4234872148" ref="index"/>
+    <file name="u187-4.png" crc="475887767" ref="index"/>
+    <file name="u189-4.png" crc="475887767" ref="index"/>
+    <file name="u84-4.png" crc="411554547" ref="index"/>
+    <file name="u93-4.png" crc="4153370882" ref="index"/>
+    <file name="u96-4.png" crc="3766079828" ref="index"/>
+    <file name="u105.png" crc="39760106" ref="index"/>
+    <file name="u105-ferr.png" crc="477513360" ref="index"/>
+    <file name="u100.png" crc="4020698182" ref="index"/>
+    <file name="u100-ferr.png" crc="22044268" ref="index"/>
+    <file name="u108-17.png" crc="4025235325" ref="index"/>
+    <file name="u108-17-r.png" crc="286013250" ref="index"/>
+    <file name="u108-17-m.png" crc="261302631" ref="index"/>
+    <file name="u108-17-fs.png" crc="418320327" ref="index"/>
+    <file name="u111.png" crc="503862129" ref="index"/>
+    <file name="u111-ferr.png" crc="4235061928" ref="index"/>
+    <file name="u140.png" crc="174003300" ref="index"/>
+    <file name="u140-ferr.png" crc="243246620" ref="index"/>
+    <file name="u143-4.png" crc="148698911" ref="index"/>
+    <file name="u165-4.png" crc="4215938357" ref="index"/>
+  </folder>
+  <file name="index.html" crc="460409033" seo="true" mt="1563097177140" redirect="true"/>
+</manifest>
