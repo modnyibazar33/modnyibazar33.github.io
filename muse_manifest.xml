@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563108254468">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563114692215">
   <folder name="assets">
     <file name="модный-базар-1.mp3" crc="4137687139" seo="true" mt="1563101270000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="104139230" ref="index"/>
+    <file name="index.css" crc="4100895123" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -40,10 +40,7 @@
     <file name="u207-r.png" crc="55235888" ref="index"/>
     <file name="u94-4.png" crc="4184036426" ref="index"/>
     <file name="u95-17.png" crc="4169393888" ref="index"/>
-    <file name="u185-4.png" crc="475887767" ref="index"/>
     <file name="u83-4.png" crc="4234872148" ref="index"/>
-    <file name="u187-4.png" crc="475887767" ref="index"/>
-    <file name="u189-4.png" crc="475887767" ref="index"/>
     <file name="u84-4.png" crc="411554547" ref="index"/>
     <file name="u93-4.png" crc="4153370882" ref="index"/>
     <file name="u96-4.png" crc="3766079828" ref="index"/>
@@ -62,6 +59,14 @@
     <file name="u143-4.png" crc="148698911" ref="index"/>
     <file name="u165-4.png" crc="4215938357" ref="index"/>
     <file name="модный-баzар---магазин-модной-женской-одежды-favicon.ico" crc="419537009" ref="index"/>
+    <file name="u345-4.png" crc="364327943" ref="index"/>
+    <file name="u341-4.png" crc="364327943" ref="index"/>
+    <file name="u343-4.png" crc="364327943" ref="index"/>
+    <file name="u336-4.png" crc="4267278568" ref="index"/>
+    <file name="1280px-apple_pay_logosvg.png" crc="465138583" ref="index"/>
+    <file name="1280px-mastercard-logosvg.png" crc="79763514" ref="index"/>
+    <file name="visa_2014_logo_detailsvg.png" crc="400404066" ref="index"/>
+    <file name="mir-logo-h229px.png" crc="334720815" ref="index"/>
   </folder>
-  <file name="index.html" crc="41375808" seo="true" mt="1563108244022" redirect="true"/>
+  <file name="index.html" crc="4178067885" seo="true" mt="1563114689480" redirect="true"/>
 </manifest>
