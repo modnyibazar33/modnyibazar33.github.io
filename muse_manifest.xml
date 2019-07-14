@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563114692215">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="modnyibazar33.github.io" resolutions="1x" timestamp="1563127602612">
   <folder name="assets">
     <file name="модный-базар-1.mp3" crc="4137687139" seo="true" mt="1563101270000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4100895123" ref="index"/>
+    <file name="index.css" crc="4088682408" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -17,6 +17,9 @@
     <file name="form_throttle.php" crc="314685628" ref="index"/>
     <file name="form_process.php" crc="401030677" ref="index"/>
     <file name="form-u97.php" crc="3790650448" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
   </folder>
   <folder name="images">
     <file name="logo.png" crc="4267516386" ref="index"/>
@@ -67,6 +70,13 @@
     <file name="1280px-mastercard-logosvg.png" crc="79763514" ref="index"/>
     <file name="visa_2014_logo_detailsvg.png" crc="400404066" ref="index"/>
     <file name="mir-logo-h229px.png" crc="334720815" ref="index"/>
+    <file name="banner1.jpg" crc="193843199" seo="true" ref="index"/>
+    <file name="banner2.jpg" crc="4192096198" seo="true" ref="index"/>
+    <file name="banner3.jpg" crc="3822964470" seo="true" ref="index"/>
+    <file name="banner4.jpg" crc="134949204" seo="true" ref="index"/>
+    <file name="u372-4.png" crc="4198776770" ref="index"/>
+    <file name="u378-4.png" crc="4079631441" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="4178067885" seo="true" mt="1563114689480" redirect="true"/>
+  <file name="index.html" crc="3842069352" seo="true" mt="1563127584926" redirect="true"/>
 </manifest>

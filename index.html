@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "webpro.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "index.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -14,7 +14,7 @@
   <title>Модный БаZар - Магазин модной женской одежды</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?4100895123" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?4088682408" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -89,8 +89,46 @@ Add additional CSS styles to this area
       </div>
      </div>
     </div>
+    <div class="clearfix colelem" id="pu453"><!-- group -->
+     <div class="browser_width grpelem" id="u453-bw">
+      <div id="u453"><!-- simple frame --></div>
+     </div>
+     <div class="SlideShowWidget clearfix grpelem" id="slideshowu363"><!-- none box -->
+      <div class="popup_anchor" id="u364popup">
+       <div class="SlideShowContentPanel clearfix" id="u364"><!-- stack box -->
+        <div class="SSSlide clip_frame clearfix grpelem" id="u369"><!-- image -->
+         <div id="u369_clip">
+          <img class="ImageInclude position_content" id="u369_img" data-src="images/banner1.jpg" src="images/blank.gif" alt="" data-width="924" data-height="385"/>
+         </div>
+        </div>
+        <div class="SSSlide invi clip_frame clearfix grpelem" id="u426"><!-- image -->
+         <div id="u426_clip">
+          <img class="ImageInclude position_content" id="u426_img" data-src="images/banner2.jpg" src="images/blank.gif" alt="" data-width="924" data-height="385"/>
+         </div>
+        </div>
+        <div class="SSSlide invi clip_frame clearfix grpelem" id="u435"><!-- image -->
+         <div id="u435_clip">
+          <img class="ImageInclude position_content" id="u435_img" data-src="images/banner3.jpg" src="images/blank.gif" alt="" data-width="924" data-height="385"/>
+         </div>
+        </div>
+        <div class="SSSlide invi clip_frame clearfix grpelem" id="u444"><!-- image -->
+         <div id="u444_clip">
+          <img class="ImageInclude position_content" id="u444_img" data-src="images/banner4.jpg" src="images/blank.gif" alt="" data-width="924" data-height="385"/>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u372-4popup">
+       <img class="SSPreviousButton" id="u372-4" alt="&lt;" width="30" height="54" src="images/u372-4.png"/><!-- rasterized frame -->
+      </div>
+      <div class="popup_anchor" id="u378-4popup">
+       <img class="SSNextButton" id="u378-4" alt="&gt;" width="30" height="54" src="images/u378-4.png"/><!-- rasterized frame -->
+      </div>
+     </div>
+    </div>
     <img class="colelem" id="u94-4" alt="В НАШЕМ МАГАЗИНЕ ЕСТЬ :" width="282" height="29" src="images/u94-4.png"/><!-- rasterized frame -->
-    <img class="colelem" id="u95-17" alt="&nbsp;Модные бренды для женщин по реальным ценам!
+    <div class="clearfix colelem" id="pu95-17"><!-- group -->
+     <img class="grpelem" id="u95-17" alt="&nbsp;Модные бренды для женщин по реальным ценам!
 * От 42 до 68 размера
 * Комфортный городской стиль, casual style, элегантный бохо.
 * Платья, туники,брюки, костюмы шик-спорт
@@ -98,6 +136,8 @@ Add additional CSS styles to this area
 * Обувь, шарфы, палантины
 * Брошки,подвески, очки
 " width="478" height="171" src="images/u95-17.png"/><!-- rasterized frame -->
+     <a class="anchor_item grpelem" id="sotrudniki"></a>
+    </div>
     <div class="colelem" id="u274"><!-- custom html -->
      
 <audio id="mejs" controls="controls" preload="auto" false>
@@ -105,7 +145,6 @@ Add additional CSS styles to this area
 </audio>	
 	
 </div>
-    <a class="anchor_item colelem" id="sotrudniki"></a>
     <div class="browser_width colelem" id="u223-bw">
      <div id="u223"><!-- group -->
       <div class="clearfix" id="u223_align_to_page">
@@ -213,6 +252,9 @@ Add additional CSS styles to this area
   <script src="scripts/jquery.musepolyfill.bgsize.js?185257658" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>
   <script src="scripts/webpro.js?3883484123" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?360574455" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?342093292" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?4218319045" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
@@ -222,6 +264,7 @@ typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw E
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight()/* resize height */
+Muse.Utils.initWidget('#slideshowu363', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:2000,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu363 */
 Muse.Utils.initWidget('#widgetu97', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu97 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
